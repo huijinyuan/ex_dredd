@@ -1,0 +1,16 @@
+https://dredd.org/en/latest/quickstart.html
+
+Following the steps to do: 
+
+1, create the files: 
+2, Running the server: node app.js &
+3, Whole sentense: dredd api-description.apib http://127.0.0.1:3000
+
+Result is nice looking:
+
+D:\Apiary\ex>dredd apidescription.apib http://127.0.0.1:3000
+pass: GET (200) / duration: 126ms
+complete: 1 passing, 0 failing, 0 errors, 0 skipped, 1 total
+complete: Tests took 131ms
+
+Summary: may practise with "whole centense"
