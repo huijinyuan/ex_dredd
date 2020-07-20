@@ -2,3 +2,6 @@
 In this exercise, the sample exercise from Dredd "Quick start" will be test how to work with Travis. 
 
 1, Change text here and check how it works with Travis;
+2, https://docs.travis-ci.com/user/reference/windows/#windows-version
+*Add os: windows
+*use MSYS2 
