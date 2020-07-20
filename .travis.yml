@@ -20,7 +20,6 @@ before_install:
         ;;
     esac
   - npm install dredd@13.1.2 --global
-  - npm install dredd@13.1.2 --global
   - npm install node@12.18.2 --global
   
 before_cache:
@@ -38,5 +37,4 @@ cache:
     - /C/tools/msys64
   
 before_script:
-  - dredd
   - dredd
