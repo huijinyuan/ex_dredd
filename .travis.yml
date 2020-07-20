@@ -1,9 +1,7 @@
 language: node_js 
     - 7
 before_install:
-
   - npm install dredd@13.1.2 --global
   - npm install node@12.18.2 --global 
-
 before_script:
   - dredd
