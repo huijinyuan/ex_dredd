@@ -1,6 +1,6 @@
 os: windows
 language: node_js 
-    - 7
+    - 12
 before_install:
 - |-
     case $TRAVIS_OS_NAME in
